@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bodabhargavi/bodabhargavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,5 +32,5 @@ Here are some ideas to get you started:
 
 ## Connect
 
-* LinkedIn: (https://www.linkedin.com/in/bhargavi-boda-6b745b342?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* Email: (mailto:bodabhargavi@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/bhargavi-boda-6b745b342?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Email: mailto:bodabhargavi@gmail.com
