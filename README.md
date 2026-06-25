@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Bhargavi 👋
+
+💻 Computer Science student passionate about full-stack development, problem-solving, and building practical tech solutions.
+🎬 Also working as a **Video Editor at EduExpose** and contributing to creative content at **IIC-GCET**.
+
+## Quick Snapshot
+
+* 🔭 Working on full-stack and hackathon-based projects
+* 🌱 Learning web development and strengthening problem-solving skills
+* 💡 Interested in software development, real-world projects, and creative tech
+* 🤝 Open to internships, collaborations, and learning opportunities
+
+## Projects
+
+* **HushMap** – Noise pollution mapping platform for location-based community reporting
+* **Urban Flooding & Hydrology Engine** – GIS-based flood hotspot prediction platform
+* **JalSanchay** – Groundwater monitoring platform with real-time insights and AI predictions
+
+## Connect
+
+* LinkedIn: (https://www.linkedin.com/in/bhargavi-boda-6b745b342?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* Email: (mailto:bodabhargavi@gmail.com)
