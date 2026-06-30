@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm Bhargavi 👋
 
 💻 Computer Science student passionate about full-stack development, problem-solving, and building practical tech solutions.
+
 🎬 Also working as a **Video Editor at EduExpose** and contributing to creative content at **IIC-GCET**.
 
 ## Quick Snapshot
@@ -32,5 +33,5 @@ Here are some ideas to get you started:
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/bhargavi-boda-6b745b342?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* LinkedIn: https://www.linkedin.com/in/bhargavi-boda
 * Email: mailto:bodabhargavi@gmail.com
